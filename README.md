@@ -1,4 +1,3 @@
-# cs6065_hw4
 MapReduce mincemeat
 
 1. mathstats.py -  Calculated standard deviation by using mincemeat map reduce. Passed chunks of data by dividing them into list of lists. 
